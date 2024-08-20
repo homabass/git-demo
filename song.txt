@@ -9,3 +9,5 @@ t
 adding new lines
 
 feature first
+
+feature second
